@@ -1,4 +1,4 @@
-> # - <u>**GIT & GITHUB**</u>
+> #  <u>**GIT & GITHUB**</u>
 #
 > ## <u>**Índice**</u>
 > - ¿Que es Git?
